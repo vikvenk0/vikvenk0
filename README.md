@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikas @vikvenk0
-- 👀 I’m interested in applying predictive machine learning models to the my personal interests 
+- 👀 I’m interested in applying predictive machine learning models to my personal interests 
 - 🌱 I’m currently getting a masters in Business Analytics
 - 📫 How to reach me ... vikas.venkateshwara95@gmail.com
 
